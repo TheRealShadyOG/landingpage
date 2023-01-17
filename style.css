@@ -51,12 +51,19 @@ a {
 
 .headersubtext {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #cecece;
 }
 
 .headerplaceholder {
     font-size: 18px;
     color: #E5E7EB;
+    background-color: #5c6269;
+    height: 216px;
+    width: 384px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
 }
 
 button {
