@@ -30,6 +30,11 @@ a {
     color: #F9FAF8;
 }
 
+.headerlinks {
+    display: flex;
+    gap: 24px;
+}
+
 .headerbody {
     display: flex;
     justify-content: space-between;
