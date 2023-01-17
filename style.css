@@ -1,6 +1,18 @@
+body {
+    margin: 0;
+    font-family: roboto, arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 .header {
     display: flex;
     flex-direction: column;
+    background-color: #1F2937;
 }
 
 .headernavbar {
@@ -9,7 +21,35 @@
     align-items: center;
 }
 
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 .headerbody {
     display: flex;
     align-items: center;
+}
+
+.headermaintext {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.headersubtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.headerplaceholder {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 600;
 }
