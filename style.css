@@ -118,3 +118,20 @@ button {
     color: #5c6269;
     text-align: center;
 }
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quotetext {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quotecredit {
+    font-size: 22px;
+    font-weight: 800;
+    color: #1F2937;
+}
