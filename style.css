@@ -121,6 +121,8 @@ button {
 
 .quote {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
 
 .quotetext {
@@ -134,4 +136,5 @@ button {
     font-size: 22px;
     font-weight: 800;
     color: #1F2937;
+    align-self: flex-end;
 }
