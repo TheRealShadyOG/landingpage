@@ -142,3 +142,13 @@ button {
     color: #1F2937;
     padding-left: 500px;
 }
+
+.popupmaintext {
+    font-size: 24px;
+    font-weight: 600;
+    color: #F9FAF8;
+}
+
+.popupsubtext {
+    color: #E5E7EB;
+}
