@@ -13,15 +13,14 @@ a {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    padding-right: 15%;
-    padding-left: 15%;
 }
 
 .headernavbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding-top: 16px;
+    gap: 430px;
 }
 
 .headerlogo {
@@ -37,11 +36,15 @@ a {
 
 .headerbody {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding-top: 100px;
     padding-bottom: 100px;
-    gap: 32px;
+    gap: 60px;
+}
+
+.headertext {
+    width: 450px;
 }
 
 .headermaintext {
@@ -61,8 +64,8 @@ a {
     font-size: 18px;
     color: #E5E7EB;
     background-color: #5c6269;
-    height: 216px;
-    width: 384px;
+    height: 225px;
+    width: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
