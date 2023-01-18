@@ -143,9 +143,15 @@ button {
     padding-left: 500px;
 }
 
+.popup {
+    display: flex;
+    justify-content: center;
+}
+
 .popupbackground {
     display: flex;
     justify-content: space-between;
+    background-color: #3882F6;
 }
 
 .popupmaintext {
