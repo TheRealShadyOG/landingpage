@@ -89,16 +89,22 @@ button {
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
+    padding-top: 48px;
+    padding-bottom: 48px;
 }
 
 .infobody {
     display: flex;
+    gap: 48px;
+    padding-bottom: 100px;
 }
 
 .infosection {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 150px;
+    gap: 8px;
 }
 
 .infoimg {
@@ -110,4 +116,5 @@ button {
 
 .infotext {
     color: #5c6269;
+    text-align: center;
 }
