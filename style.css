@@ -179,6 +179,12 @@ a {
     padding: 6px 32px 6px 32px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footertext {
     color: #E5E7EB;
 }
