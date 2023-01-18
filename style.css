@@ -152,6 +152,10 @@ button {
     display: flex;
     justify-content: space-between;
     background-color: #3882F6;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px 100px 50px 100px;
+    border-radius: 10px;
 }
 
 .popupmaintext {
