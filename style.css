@@ -69,7 +69,7 @@ a {
     flex-shrink: 0;
 }
 
-button {
+.headerbutton {
     background-color: #3882F6;
     color: #F9FAF8;
     font-size: 18px;
