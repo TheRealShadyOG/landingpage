@@ -143,6 +143,11 @@ button {
     padding-left: 500px;
 }
 
+.popup {
+    display: flex;
+    justify-content: space-between;
+}
+
 .popupmaintext {
     font-size: 24px;
     font-weight: 600;
