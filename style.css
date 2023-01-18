@@ -156,6 +156,7 @@ a {
     margin-bottom: 100px;
     padding: 50px 100px 50px 100px;
     border-radius: 10px;
+    gap: 150px;
 }
 
 .popupmaintext {
